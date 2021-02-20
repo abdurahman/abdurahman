@@ -6,6 +6,7 @@
 
 You can reach me via GitHub and LinkedIn.
 
+LinkedIn: https://www.linkedin.com/in/abdurahman-ahmed-0bb2651a0/
 <!---
 abdurahman/abdurahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
