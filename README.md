@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdurahman!
-- 👀 I’m interested in learning new programming languages as well as building my skills to enter the software developement industry
-- 🌱 I’m currently a student in George Brown College learning Computer Programming and Analysis.
+- 👀 I’m interested in learning new programming languages as well as building my skills to enter the software developement industry.
+- 🌱 I’m currently a graduate of the Computer Programmer Analyst program at George Brown College.
 - 💞️ I’m looking to collaborate on many open source projects so I can get a better understanding of the field.
 - 📫 How to reach me ...
 
