@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdurahman!
-- 👀 I’m interested in working on perfecting my web and mobile development skills to enter the software development industry
+- 👀 I’m interested in working on perfecting my web and mobile development skills as well as looking for an internship to start my career in the software development industry
 - 🌱 I’m currently a graduate of the Computer Programmer Analyst program at George Brown College.
 - 💞️ I’m looking to collaborate on many open source projects so I can get a better understanding of the field.
 - 📫 How to reach me ...
