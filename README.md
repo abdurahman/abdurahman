@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdurahman Ahmed</h1>
-<h3 align="center">A full-stack developer from Canada</h3>
+<h3 align="center">An aspiring full-stack developer 👨🏾‍💻 from Canada 🇨🇦</h3>
 
 - 🔭 I’m currently working on [chirp-rest-api](https://github.com/abdurahman/chirp-rest-api)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abdurahman.ahmed18@outlook.com**
 
-- ⚡ Fun fact: **I love ice coffee**
+- ⚡ Fun fact: **I love ice coffee ☕️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +26,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abdurahmana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdurahmana" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurahman&show_icons=true&locale=en&layout=compact" alt="abdurahman" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurahman&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="abdurahman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurahman&show_icons=true&locale=en" alt="abdurahman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurahman&show_icons=true&theme=synthwave&locale=en" alt="abdurahman" /></p>
